@@ -5,7 +5,19 @@ public:
         //Using optimization for compiling
         ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
         // Use the comment below to instead of sort funtion for better performance.
-        sort(people.begin(),people.end());
+        //sort(people.begin(),people.end());
+        unsigned freq[30001]={0};
+        int maxW=0, minW=30001;
+        for(int x: people){
+            freq[x]++;
+            maxW=max(maxW, x);
+            minW=min(minW, x);
+        }
+        for (int i=minW, j=0; i<=maxW; i++){
+            int f=freq[i];
+            fill(people.begin()+j, people.begin()+j+f, i);
+            j+=f;
+        }
         int count = 0;
         for(int l=0, r=people.size()-1;l<=r; r--){
             count++;
