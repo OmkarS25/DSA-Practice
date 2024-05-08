@@ -10,48 +10,46 @@
  */
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = nullptr;
+        while(curr != nullptr) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+    
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        stack<int> s1, s2, result;
+        if(l1 == nullptr) return l2;
+        if(l2 == nullptr) return l1;
 
-        // Push values of l1 into stack s1
-        while (l1 != nullptr) {
-            s1.push(l1->val);
-            l1 = l1->next;
-        }
+        l1 = reverseList(l1);
+        l2 = reverseList(l2);
 
-        // Push values of l2 into stack s2
-        while (l2 != nullptr) {
-            s2.push(l2->val);
-            l2 = l2->next;
-        }
-
+        ListNode* ans = new ListNode();
+        ListNode* current = ans; 
         int carry = 0;
+        while (l1 != nullptr || l2 != nullptr || carry != 0) {
+            int sum = carry; 
+            if (l1 != nullptr) {
+                sum = sum + l1->val;
+                l1 = l1->next;
+            }
+            if (l2 != nullptr) {
+                sum = sum + l2->val;
+                l2 = l2->next;
+            }
 
-        // Calculate sum and store result in stack
-        while (!s1.empty() || !s2.empty() || carry != 0) {
-            int sum = carry;
-            if (!s1.empty()) {
-                sum += s1.top();
-                s1.pop();
-            }
-            if (!s2.empty()) {
-                sum += s2.top();
-                s2.pop();
-            }
             carry = sum / 10;
-            sum %= 10;
-            result.push(sum);
+            sum = sum % 10;
+            current->next = new ListNode(sum); 
+            current = current->next; 
         }
 
-        // Construct result linked list
-        ListNode* ans = new ListNode(0); // Dummy node
-        ListNode* current = ans;
-        while (!result.empty()) {
-            current->next = new ListNode(result.top());
-            result.pop();
-            current = current->next;
-        }
-
-        return ans->next;
+        return reverseList(ans->next);
     }
 };
