@@ -1,16 +1,27 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int> list;
-        vector<int>res;
+        // Got the xor of two numbers.
+        int xornum = 0;
         for(int a: nums){
-            list[a]++;
+            xornum ^= a;
         }
-        for(int a : nums){
-            if(list[a] == 1){
-                res.push_back(a);
+        // Now getting LSB which is 1, which will be 
+        // the differece between the two numbers.
+        int diff_bit = 1;
+        while(!(xornum & diff_bit)){
+            diff_bit = diff_bit << 1;
+        }
+        // Calculating the two different numbers.
+        int a = 0, b = 0;
+        for(int n : nums){
+            if(diff_bit & n){
+                a = a ^ n;
+            }
+            else{
+                b = b ^ n;
             }
         }
-        return res;
+        return {a,b};
     }
 };
