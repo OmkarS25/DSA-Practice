@@ -19,4 +19,9 @@ This repository contains solutions to various data structures and algorithms pra
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
