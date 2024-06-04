@@ -44,3 +44,8 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OmkarS25/DSA-Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
