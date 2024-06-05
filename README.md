@@ -58,3 +58,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+# Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
