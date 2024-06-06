@@ -37,6 +37,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -44,6 +45,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Binary Search
 |  |
 | ------- |
@@ -62,6 +65,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Linked List
 |  |
 | ------- |
