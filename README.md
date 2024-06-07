@@ -23,6 +23,7 @@ This repository contains solutions to various data structures and algorithms pra
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
@@ -44,6 +45,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
@@ -74,3 +76,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+# Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
