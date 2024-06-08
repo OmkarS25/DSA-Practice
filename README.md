@@ -47,6 +47,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
@@ -58,6 +59,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0027-remove-element](https://github.com/OmkarS25/DSA-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
@@ -80,3 +82,8 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
