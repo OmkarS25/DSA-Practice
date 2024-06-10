@@ -66,6 +66,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Binary Search
 |  |
@@ -76,6 +77,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Linked List
 |  |
@@ -92,3 +94,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
