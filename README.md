@@ -40,6 +40,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -63,6 +64,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -78,6 +80,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
@@ -100,5 +103,6 @@ This repository contains solutions to various data structures and algorithms pra
 # Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
