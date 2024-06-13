@@ -44,6 +44,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -75,6 +76,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Linked List
 |  |
 | ------- |
