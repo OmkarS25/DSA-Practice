@@ -41,6 +41,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -67,6 +68,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
@@ -88,6 +90,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
@@ -126,6 +129,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 # Merge Sort
 |  |
