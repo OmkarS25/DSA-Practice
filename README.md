@@ -40,6 +40,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
@@ -68,6 +69,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0330-patching-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
