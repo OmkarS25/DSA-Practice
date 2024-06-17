@@ -21,6 +21,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -87,6 +88,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
