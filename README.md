@@ -23,6 +23,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmkarS25/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/OmkarS25/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -89,6 +90,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmkarS25/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/OmkarS25/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 # Binary Search
 |  |
@@ -96,6 +98,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmkarS25/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Sorting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmkarS25/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/OmkarS25/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 # Linked List
 |  |
