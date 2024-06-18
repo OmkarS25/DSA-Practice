@@ -22,6 +22,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -45,6 +46,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
+| [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -75,6 +77,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -89,6 +92,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 # Sorting
 |  |
 | ------- |
@@ -96,6 +100,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
+| [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
