@@ -181,3 +181,19 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
+# Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
