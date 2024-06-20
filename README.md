@@ -32,6 +32,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0648-replace-words) |
@@ -131,6 +132,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
@@ -171,3 +173,11 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
