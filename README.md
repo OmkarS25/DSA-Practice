@@ -91,6 +91,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/OmkarS25/DSA-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmkarS25/DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -211,3 +212,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/OmkarS25/DSA-Practice/tree/master/1138-grumpy-bookstore-owner) |
