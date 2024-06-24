@@ -91,6 +91,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/OmkarS25/DSA-Practice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/OmkarS25/DSA-Practice/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/OmkarS25/DSA-Practice/tree/master/1138-grumpy-bookstore-owner) |
@@ -149,6 +150,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/OmkarS25/DSA-Practice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -187,6 +189,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/OmkarS25/DSA-Practice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Simulation
 |  |
 | ------- |
@@ -222,12 +225,14 @@ This repository contains solutions to various data structures and algorithms pra
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/OmkarS25/DSA-Practice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/OmkarS25/DSA-Practice/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/OmkarS25/DSA-Practice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
