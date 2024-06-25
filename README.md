@@ -201,6 +201,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -242,3 +245,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
