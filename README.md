@@ -201,6 +201,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
@@ -209,6 +210,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
@@ -224,6 +226,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Sliding Window
 |  |
@@ -248,4 +251,5 @@ This repository contains solutions to various data structures and algorithms pra
 # Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
