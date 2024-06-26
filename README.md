@@ -82,6 +82,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0035-search-insert-position](https://github.com/OmkarS25/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0330-patching-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -163,6 +164,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
@@ -203,6 +205,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
@@ -232,6 +235,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
@@ -260,6 +264,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
