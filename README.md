@@ -185,6 +185,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -206,6 +208,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -222,6 +225,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
