@@ -56,6 +56,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/OmkarS25/DSA-Practice/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/OmkarS25/DSA-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmkarS25/DSA-Practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/OmkarS25/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -163,6 +164,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -205,6 +207,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -215,6 +218,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +236,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -257,3 +262,4 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
