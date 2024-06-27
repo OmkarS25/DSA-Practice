@@ -21,6 +21,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
@@ -120,6 +121,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0148-sort-list) |
 | [0502-ipo](https://github.com/OmkarS25/DSA-Practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/OmkarS25/DSA-Practice/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/OmkarS25/DSA-Practice/tree/master/0853-most-profit-assigning-work) |
@@ -138,6 +140,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0061-rotate-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0148-sort-list) |
 # Math
 |  |
 | ------- |
@@ -165,6 +168,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
@@ -176,6 +180,7 @@ This repository contains solutions to various data structures and algorithms pra
 # Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 # Bucket Sort
 |  |
