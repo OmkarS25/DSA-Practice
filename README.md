@@ -268,3 +268,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0538-convert-bst-to-greater-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1916-find-center-of-star-graph) |
