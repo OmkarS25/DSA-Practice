@@ -312,6 +312,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [1293-three-consecutive-odds](https://github.com/OmkarS25/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
