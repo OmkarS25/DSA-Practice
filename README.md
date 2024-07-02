@@ -306,6 +306,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,6 +320,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1293-three-consecutive-odds](https://github.com/OmkarS25/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +329,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +339,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
