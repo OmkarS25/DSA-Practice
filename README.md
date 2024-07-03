@@ -307,6 +307,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +323,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,4 +358,5 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
