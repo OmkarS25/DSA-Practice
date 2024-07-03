@@ -359,4 +359,16 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
