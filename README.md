@@ -363,6 +363,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,4 +376,8 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmkarS25/DSA-Practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
