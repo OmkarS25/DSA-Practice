@@ -363,6 +363,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
 ## Backtracking
 |  |
@@ -379,5 +380,6 @@ This repository contains solutions to various data structures and algorithms pra
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
