@@ -318,6 +318,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [1293-three-consecutive-odds](https://github.com/OmkarS25/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -387,6 +388,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -406,5 +408,6 @@ This repository contains solutions to various data structures and algorithms pra
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
