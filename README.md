@@ -284,6 +284,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +301,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -314,6 +316,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Array
 |  |
@@ -420,6 +423,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
