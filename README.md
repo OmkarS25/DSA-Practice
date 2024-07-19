@@ -337,6 +337,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/OmkarS25/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
@@ -448,4 +449,8 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/OmkarS25/DSA-Practice/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
