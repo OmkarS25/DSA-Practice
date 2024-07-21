@@ -294,10 +294,12 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 ## Tree
 |  |
 | ------- |
@@ -345,6 +347,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
@@ -456,4 +459,5 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
