@@ -359,6 +359,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -458,6 +459,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
