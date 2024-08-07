@@ -432,6 +432,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
+| [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
@@ -460,6 +461,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -468,6 +470,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
