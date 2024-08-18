@@ -382,6 +382,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
@@ -447,6 +448,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
@@ -528,6 +530,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -548,6 +551,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/OmkarS25/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
