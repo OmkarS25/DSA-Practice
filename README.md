@@ -466,6 +466,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [0476-number-complement](https://github.com/OmkarS25/DSA-Practice/tree/master/0476-number-complement) |
 ## Linked List
 |  |
 | ------- |
