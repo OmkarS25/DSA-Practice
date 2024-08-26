@@ -27,31 +27,44 @@ auto init = [](){
 
 class Solution {
 public:
-    vector<int> postorder(Node* root) {
-    vector<int> ans;
-    if (!root) return ans;
-    
-    stack<Node*> nodeStack;
-    stack<int> outputStack;
-    nodeStack.push(root);
-
-    while (!nodeStack.empty()) {
-        Node* node = nodeStack.top();
-        nodeStack.pop();
-        outputStack.push(node->val);
-
-        for (Node* child : node->children) {
-            if (child) {
-                nodeStack.push(child);
-            }
+    void helper(Node* root, vector<int>& ans){
+        if(!root) return;
+        for(Node* a : root->children){
+            helper(a, ans);
         }
+        ans.push_back(root->val);
+    }
+    vector<int> postorder(Node* root) {
+        vector<int> ans;
+        helper(root, ans);
+        return ans;
     }
 
-    while (!outputStack.empty()) {
-        ans.push_back(outputStack.top());
-        outputStack.pop();
-    }
+//     vector<int> postorder(Node* root) {
+//         vector<int> ans;
+//         if (!root) return ans;
 
-    return ans;
-}
+//         stack<Node*> nodeStack;
+//         stack<int> outputStack;
+//         nodeStack.push(root);
+
+//         while (!nodeStack.empty()) {
+//             Node* node = nodeStack.top();
+//             nodeStack.pop();
+//             outputStack.push(node->val);
+
+//             for (Node* child : node->children) {
+//                 if (child) {
+//                     nodeStack.push(child);
+//                 }
+//             }
+//         }
+
+//         while (!outputStack.empty()) {
+//             ans.push_back(outputStack.top());
+//             outputStack.pop();
+//         }
+
+//         return ans;
+//     }
 };
