@@ -300,6 +300,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -359,6 +360,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/OmkarS25/DSA-Practice/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -550,6 +552,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -581,6 +584,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
