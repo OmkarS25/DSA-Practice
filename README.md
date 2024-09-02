@@ -335,6 +335,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0783-search-in-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
@@ -377,6 +378,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/OmkarS25/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -495,6 +497,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
@@ -614,6 +617,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
