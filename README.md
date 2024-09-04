@@ -358,6 +358,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/OmkarS25/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
@@ -402,6 +403,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -494,6 +496,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
