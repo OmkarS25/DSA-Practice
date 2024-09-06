@@ -394,6 +394,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -416,6 +417,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -492,6 +494,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmkarS25/DSA-Practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
