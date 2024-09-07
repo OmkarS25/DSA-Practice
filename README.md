@@ -288,6 +288,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/OmkarS25/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -296,6 +297,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/OmkarS25/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -322,6 +324,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0783-search-in-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -346,6 +349,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0783-search-in-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Array
@@ -493,6 +497,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmkarS25/DSA-Practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
