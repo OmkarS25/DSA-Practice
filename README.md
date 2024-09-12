@@ -356,6 +356,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -515,6 +516,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -576,6 +578,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
