@@ -496,6 +496,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0476-number-complement](https://github.com/OmkarS25/DSA-Practice/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/OmkarS25/DSA-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
