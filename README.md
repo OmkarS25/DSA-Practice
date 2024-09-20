@@ -356,6 +356,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
@@ -411,6 +412,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
