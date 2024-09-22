@@ -711,4 +711,5 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/OmkarS25/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
