@@ -9,8 +9,6 @@ static const auto init = [](){
 class Solution {
 public:
     unordered_map<string, int> um, memo;
-    // unordered_map<string, int> um;
-    // unordered_map<int, int> memo;
     int solve(string s) {
         if (s.empty()) return 0;
         if(memo.find(s) != memo.end()) return memo[s];
