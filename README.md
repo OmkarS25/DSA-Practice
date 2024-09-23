@@ -408,6 +408,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -434,6 +435,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
@@ -581,6 +583,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -652,6 +655,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/OmkarS25/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -712,4 +716,5 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/OmkarS25/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
