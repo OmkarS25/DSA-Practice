@@ -410,6 +410,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -437,6 +438,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -585,6 +587,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -717,4 +720,5 @@ This repository contains solutions to various data structures and algorithms pra
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/OmkarS25/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
