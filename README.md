@@ -336,6 +336,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/OmkarS25/DSA-Practice/tree/master/0792-binary-search) |
@@ -367,6 +368,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/OmkarS25/DSA-Practice/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
@@ -725,4 +727,16 @@ This repository contains solutions to various data structures and algorithms pra
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
