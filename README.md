@@ -425,6 +425,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
@@ -533,6 +534,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/OmkarS25/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -733,6 +735,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 ## Segment Tree
@@ -743,4 +746,8 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
