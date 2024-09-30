@@ -22,5 +22,5 @@ public:
         }
     }
     
-    ~CustomStack() { delete[] arr; }
+    // ~CustomStack() { delete[] arr; }
 };
