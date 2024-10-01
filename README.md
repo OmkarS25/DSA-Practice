@@ -389,6 +389,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/OmkarS25/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
@@ -435,6 +436,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -484,6 +486,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
