@@ -431,6 +431,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
@@ -458,6 +459,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
@@ -466,6 +468,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -593,6 +596,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
