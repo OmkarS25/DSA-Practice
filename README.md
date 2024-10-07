@@ -577,6 +577,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/OmkarS25/DSA-Practice/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
@@ -616,6 +617,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
@@ -630,6 +632,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1497-design-a-stack-with-increment-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 ## Interactive
 |  |
