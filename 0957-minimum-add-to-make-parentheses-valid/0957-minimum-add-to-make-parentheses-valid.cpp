@@ -8,10 +8,19 @@ class Solution {
 public:
     int minAddToMakeValid(string s) {
         int open=0, close=0;
-        for(auto ch : s){
-            if(ch == '(') open++;
-            else (open > 0) ? open-- : close++;
-        }
+        for(auto ch : s) (ch == '(') ? (open++) : ((open > 0) ? open-- : close++);
         return open + close;
     }
 };
+
+// class Solution {
+// public:
+//     int minAddToMakeValid(string s) {
+//         int open=0, close=0;
+//         for(auto ch : s){
+//             if(ch == '(') open++;
+//             else (open > 0) ? open-- : close++;
+//         }
+//         return open + close;
+//     }
+// };
