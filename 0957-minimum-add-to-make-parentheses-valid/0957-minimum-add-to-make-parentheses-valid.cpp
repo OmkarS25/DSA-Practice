@@ -10,10 +10,7 @@ public:
         int open=0, close=0;
         for(auto ch : s){
             if(ch == '(') open++;
-            else {
-                if(open > 0) open--;
-                else close++;
-            }
+            else (open > 0) ? open-- : close++;
         }
         return open + close;
     }
