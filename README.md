@@ -524,6 +524,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -545,6 +546,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
