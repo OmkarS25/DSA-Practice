@@ -409,6 +409,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
@@ -560,6 +561,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -569,6 +571,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmkarS25/DSA-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmkarS25/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
@@ -815,4 +818,8 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
