@@ -661,6 +661,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -829,6 +830,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
