@@ -357,6 +357,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2179-most-beautiful-item-for-each-query](https://github.com/OmkarS25/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
@@ -448,6 +449,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2586-longest-square-streak-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
@@ -521,6 +523,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmkarS25/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -546,6 +549,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmkarS25/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
