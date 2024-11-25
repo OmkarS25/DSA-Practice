@@ -3,7 +3,6 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         if(!head || !head->next) return head;
-        ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
         stack<int> st;
         ListNode *curr=head;
         while(curr){
