@@ -319,6 +319,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2171-second-minimum-time-to-reach-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/OmkarS25/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
