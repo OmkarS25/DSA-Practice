@@ -535,6 +535,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [0908-middle-of-the-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
@@ -651,6 +652,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/OmkarS25/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [0908-middle-of-the-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmkarS25/DSA-Practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/2411-spiral-matrix-iv) |
