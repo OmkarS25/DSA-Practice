@@ -656,6 +656,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/OmkarS25/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
@@ -690,6 +691,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/OmkarS25/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
