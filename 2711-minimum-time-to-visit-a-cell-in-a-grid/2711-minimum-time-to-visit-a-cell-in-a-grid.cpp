@@ -1,39 +1,45 @@
 class Solution {
 public:
-    int minimumTime(vector<vector<int>>& grid) {
-        // Check if the starting points are blocked
-        if (grid[0][1] > 1 && grid[1][0] > 1) return -1;
+    int minimumTime(vector<vector<int>>& grid) {   
+        int m = grid.size(),n = grid[0].size();
+        vector<int> visited(m * n, -1);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> q;
         
-        int m = grid.size(), n = grid[0].size();
-        vector<vector<int>> dirs{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        priority_queue<vector<int>, vector<vector<int>>, greater<>> pq;
+        q.push({0,0});
+        visited[0] = 0;
+        vector<int> dir = {0, -1, 0, 1, 0};
         
-        pq.push({grid[0][0], 0, 0}); // Start at top-left corner
-        while (!pq.empty()) {
-            // Get the current time, row, and column
-            int time = pq.top()[0], row = pq.top()[1], col = pq.top()[2];
-            pq.pop();
-            
-            // Check if we've reached the bottom-right corner
-            if (row == m - 1 && col == n - 1) return time;
-            
-            // Mark the current cell as visited
-            if (visited[row][col]) continue;
-            visited[row][col] = true;
-            
-            // Explore the neighboring cells
-            for (auto dr: dirs) {
-                int r = row + dr[0], c = col + dr[1];
-                if (r < 0 || r >= m || c < 0 || c >= n || visited[r][c]) continue;
+        if(grid[1][0] > 1 && grid[0][1] > 1) return -1;
+        
+        while(q.size() > 0){
                 
-                // Calculate the time required to reach the neighboring cell
-                int wait = (grid[r][c] - time) % 2 == 0;
-                pq.push({max(grid[r][c] + wait, time + 1), r, c});
+            auto node = q.top();
+            q.pop();
+            
+            int row = node.second / n, col = node.second % n;
+            int val = node.second, t = node.first;
+                        
+            if(row == m - 1 && col == n-1) return t;
+
+            for(int j = 0 ; j < 4 ; j++){
+                int new_row = row + dir[j], new_col = col + dir[j + 1];
+
+                if(new_row < 0 || new_row >= m || new_col < 0 || new_col >= n) continue;
+                    
+                int val = new_row * n + new_col;
+
+                if(visited[val] != -1) continue;
+                
+                if(grid[new_row][new_col] <= t + 1) visited[val] = t + 1;
+                else if((t + 1) % 2 != grid[new_row][new_col] % 2)
+                    visited[val] = grid[new_row][new_col] + 1;
+                else visited[val] = grid[new_row][new_col];
+                
+                q.push({visited[val], val});
             }
+  
         }
-        return -1; // We couldn't reach the bottom-right corner. 
-                // We will never actually encounter this in practice.
+        return -1;
     }
 };
 
