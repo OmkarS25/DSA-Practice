@@ -15,9 +15,9 @@ public:
         while(temp){
             if(temp->next){
                 if(temp->val == temp->next->val){
-                    // ListNode* tmp = temp->next;
+                    ListNode* deltmp = temp->next;
                     temp->next = temp->next->next;
-                    // delete tmp;
+                    delete deltmp;
                 }
                 else temp = temp->next;
             }
