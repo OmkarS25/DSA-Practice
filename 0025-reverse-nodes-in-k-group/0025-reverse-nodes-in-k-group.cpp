@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     int lengthOfLL(ListNode *head){
@@ -35,12 +25,15 @@ public:
             pos++;
         }
 
-        if(nextNode != NULL && lengthOfLL(nextNode) >= k){
-            head->next = reverseKGroup(nextNode, k);
-        }
-        else {
-            head->next = nextNode;
-        }
+        head->next = (nextNode != NULL && lengthOfLL(nextNode) >= k) ? reverseKGroup(nextNode, k) : nextNode;
+
         return prev;
     }
 };
+
+#pragma GCC optimize ("O3", "unroll-loops")
+static const int _=[]()noexcept{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+    return 0;
+}();
