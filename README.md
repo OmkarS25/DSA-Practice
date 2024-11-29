@@ -657,6 +657,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/OmkarS25/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
