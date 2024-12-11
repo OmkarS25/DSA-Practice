@@ -400,6 +400,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -788,6 +789,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
@@ -979,6 +981,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
