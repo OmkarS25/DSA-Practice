@@ -424,6 +424,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -705,6 +706,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -918,6 +920,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
