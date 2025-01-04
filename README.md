@@ -559,6 +559,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmkarS25/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -722,6 +723,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmkarS25/DSA-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmkarS25/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -810,6 +812,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/OmkarS25/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -979,6 +982,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/OmkarS25/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/OmkarS25/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3427-special-array-ii) |
