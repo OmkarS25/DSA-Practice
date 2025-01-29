@@ -286,6 +286,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/OmkarS25/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/OmkarS25/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -312,6 +313,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/OmkarS25/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/OmkarS25/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/OmkarS25/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
@@ -337,6 +339,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/OmkarS25/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/OmkarS25/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1034,6 +1037,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/OmkarS25/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
