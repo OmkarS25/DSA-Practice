@@ -613,6 +613,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/OmkarS25/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -983,6 +984,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/OmkarS25/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/OmkarS25/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1128,6 +1130,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1137,6 +1140,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
