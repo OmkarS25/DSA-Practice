@@ -1,7 +1,7 @@
 class ProductOfNumbers {
 private:
     vector<int> v; // We will store the prefix product
-    int n = 0;
+    volatile int n = 0;
 
 public:
     ProductOfNumbers() {
