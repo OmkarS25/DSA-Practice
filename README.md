@@ -782,6 +782,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -885,6 +886,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1302-delete-characters-to-make-fancy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
