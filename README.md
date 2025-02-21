@@ -294,6 +294,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -319,6 +320,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0820-find-eventual-safe-states](https://github.com/OmkarS25/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/OmkarS25/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -379,6 +381,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -430,6 +433,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmkarS25/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -603,6 +607,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmkarS25/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1156,6 +1161,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
