@@ -309,6 +309,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/OmkarS25/DSA-Practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -340,6 +341,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2677-cousins-in-binary-tree-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -360,6 +362,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2472-build-a-matrix-with-conditions](https://github.com/OmkarS25/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/OmkarS25/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1143,6 +1146,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
