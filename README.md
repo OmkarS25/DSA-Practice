@@ -625,6 +625,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -690,6 +691,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3455-minimum-length-of-string-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sliding Window
 |  |
 | ------- |
