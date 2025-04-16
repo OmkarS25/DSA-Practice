@@ -1,17 +1,13 @@
 class Solution {
 public:
     long long countGood(vector<int>& nums, int k) {
+        unordered_map<int, int> m;
+        int n = nums.size(), right = 0, left = 0;
         long long res = 0;
-        int n = nums.size(), srt = 0, cur = 0;
-        map <int, int> hash;
-        for (int i = 0; i < n; i++) {
-            cur += hash[nums[i]];
-            hash [nums[i]] ++;
-            while (cur >= k) {
-                res += (n - i); 
-                cur -= hash[nums[srt]] - 1;
-                hash[nums[srt++]] --;            
-            }
+        while (right < n) {
+            k -= m[nums[right++]]++;
+            while (k <= 0) k += --m[nums[left++]];
+            res += left;
         }
         return res;
     }
