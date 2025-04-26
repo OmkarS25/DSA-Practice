@@ -580,6 +580,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmkarS25/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/OmkarS25/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
@@ -713,6 +714,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/OmkarS25/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -973,6 +975,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
@@ -1340,6 +1343,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Monotonic Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
