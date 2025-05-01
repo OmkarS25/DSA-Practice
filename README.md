@@ -424,6 +424,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/OmkarS25/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmkarS25/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -558,6 +559,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/OmkarS25/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmkarS25/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/OmkarS25/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -782,6 +784,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/OmkarS25/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
@@ -835,6 +838,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1917-maximum-average-pass-ratio](https://github.com/OmkarS25/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -982,6 +986,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 ## String
@@ -1351,6 +1356,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 ## Data Stream
