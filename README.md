@@ -637,6 +637,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -823,6 +824,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/OmkarS25/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
@@ -915,6 +917,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/OmkarS25/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
