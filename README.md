@@ -469,6 +469,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
@@ -659,6 +660,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -1131,6 +1133,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/OmkarS25/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/OmkarS25/DSA-Practice/tree/master/0854-making-a-large-island) |
