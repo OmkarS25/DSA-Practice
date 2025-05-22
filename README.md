@@ -656,6 +656,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -828,6 +829,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/OmkarS25/DSA-Practice/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -881,6 +883,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/OmkarS25/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -1199,6 +1202,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1316,6 +1320,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2915-count-of-interesting-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
