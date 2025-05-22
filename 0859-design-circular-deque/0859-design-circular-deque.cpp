@@ -1,114 +1,72 @@
-#pragma GCC optimize ("Ofast")
-#pragma GCC target ("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx")
-#pragma GCC optimize ("-ffloat-store")
-#pragma GCC optimize ("O3", "unroll-loops")
-auto _=[]()noexcept{ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);return 0;}();
-
-class Node{
-public:
-    int data;
-    Node* prev;
-    Node* next;
-
-    Node(){
-        this->data = 0;
-        this->prev = NULL;
-        this->next = NULL;
-    }
-
-
-    Node(int x){
-        this->data = x;
-        this->prev = NULL;
-        this->next = NULL;
-    }
-
-};
-
 class MyCircularDeque {
-    Node* left = new Node(-1);
-    Node* right = new Node(-1);
-    int size = 0, capacity = 0;
+    int size, front, rear, *arr;
 public:
-    
-    void remove(Node* temp){
-
-        // Remove the node from between
-        temp->prev->next = temp->next;
-        temp->next->prev = temp->prev;
-        temp->next = NULL;
-        temp->prev = NULL;
-
-
-    }
-
-    void add(Node* dummy, Node* temp){
-
-        dummy->prev->next = temp;
-        temp->prev = dummy->prev;
-        temp->next = dummy;
-        dummy->prev = temp;
-
-    }
-
     MyCircularDeque(int k) {
-        left->next = right;
-        right->prev = left;
-        capacity = k;
+        size = k;
+        front = rear = -1;
+        arr = new int[size];
     }
     
     bool insertFront(int value) {
-        
-        if(isFull()) return false;
-
-        Node* element = new Node(value);
-        add(left->next, element);
-        size++;
+        if (isFull()) return false; // Full case
+        else if (isEmpty()) front = rear = 0; // Empty case
+        else if (front == 0 && rear != size - 1) front = size - 1; // Circular case
+        else front--; // Normal case
+        arr[front] = value; // Insert value
         return true;
     }
-    
+
     bool insertLast(int value) {
-        if(isFull()) return false;
-
-        Node* element = new Node(value);
-        add(right, element);
-        size++;
+        if (isFull()) return false; // Full case
+        else if (isEmpty()) front = rear = 0; // Empty case
+        else if (rear == size - 1 && front != 0) rear = 0; // Circular case
+        else rear++; // Normal case
+        arr[rear] = value; // Insert value
         return true;
     }
-    
+
     bool deleteFront() {
-        if(isEmpty()) return false;
-        
-        remove(left->next);
-        size--;
+        if (isEmpty()) return false;
+        arr[front] = -1; // Clear the value
+        if (front == rear) front = rear = -1; // One element case
+        else if (front == size - 1) front = 0; // Circular case
+        else front++; // Normal case
         return true;
     }
-    
+
     bool deleteLast() {
-        if(isEmpty()) return false;
-
-        remove(right->prev);
-        size--;
+        if (isEmpty()) return false;
+        arr[rear] = -1; // Clear the value
+        if (front == rear) front = rear = -1; // One element case
+        else if (rear == 0) rear = size - 1; // Circular case
+        else rear--; // Normal case
         return true;
     }
-    
+
     int getFront() {
-        if(isEmpty()) return -1;
-
-        return left->next->data;
+        return isEmpty() ? -1 : arr[front]; // If empty, return -1 else return front;
     }
-    
+
     int getRear() {
-        if(isEmpty()) return -1;
-
-        return right->prev->data;
+        return isEmpty() ? -1 : arr[rear]; // If empty, return -1 else return rear;
     }
-    
+
     bool isEmpty() {
-        return size == 0;
+        return front == -1 && rear == -1; 
     }
     
     bool isFull() {
-        return size == capacity;
+        return (front == 0 && rear == size - 1) || (rear == front - 1); 
+    }
+
+    ~MyCircularDeque() {
+        delete[] arr;
     }
 };
+
+#pragma GCC optimize ("O3", "unroll-loops")
+static const int _=[]()noexcept{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+    return 0;
+}();
