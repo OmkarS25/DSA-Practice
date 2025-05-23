@@ -476,6 +476,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -739,6 +740,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
@@ -1031,6 +1033,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1187,6 +1190,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1430,6 +1434,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
