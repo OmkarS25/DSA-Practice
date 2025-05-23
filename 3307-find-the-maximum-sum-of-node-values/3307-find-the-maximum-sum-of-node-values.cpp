@@ -26,13 +26,20 @@ public:
     }
 };
 
+#pragma GCC optimize ("O3", "unroll-loops")
+static const int _=[]()noexcept{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+    return 0;
+}();
+
 // which edges have the maximun sum without repeating the edge.
 // and then just add add the nums array in which the values where changed.
 // testcases:-
 // [24,78,1,97,44]
 // 6
 // [[0,2],[1,2],[4,2],[3,4]]
-
+// (https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5176804/extreme-detailed-explanation-that-could-ever-exists)
 // Another solution.(https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5177609/detailed-explanation-2-approaches-extremely-simple-and-effective)
 // class Solution {
 // public:
