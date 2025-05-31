@@ -324,6 +324,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0787-sliding-puzzle](https://github.com/OmkarS25/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/OmkarS25/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/OmkarS25/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
@@ -506,6 +507,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
+| [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
@@ -1175,6 +1177,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0787-sliding-puzzle](https://github.com/OmkarS25/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/OmkarS25/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
