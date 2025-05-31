@@ -283,6 +283,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -395,6 +396,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -459,6 +461,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
