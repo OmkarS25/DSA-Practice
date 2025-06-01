@@ -282,6 +282,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0386-lexicographical-numbers) |
@@ -319,6 +320,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/OmkarS25/DSA-Practice/tree/master/0684-redundant-connection) |
@@ -395,6 +397,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -460,6 +463,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
