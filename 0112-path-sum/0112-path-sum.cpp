@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* &root, int sum, int &targetSum){
+    bool solve(TreeNode* &root, int sum, int &targetSum){
         if(!root) return false;
         sum += root->val;
-        if(!root->left && !root->right){
-            return sum == targetSum;
-        }
-        return (helper(root->left, sum, targetSum) || helper(root->right, sum, targetSum));
+        if(!root->left && !root->right) return sum == targetSum;
+        return (solve(root->left, sum, targetSum) || solve(root->right, sum, targetSum));
     }
     bool hasPathSum(TreeNode* &root, int &targetSum) {
-        if(!root) return false;
-        return helper(root, 0, targetSum);
+        return solve(root, 0, targetSum);
     }
 };
+
+#pragma GCC optimize ("O3", "unroll-loops")
+static const int _=[]()noexcept{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+    return 0;
+}();
