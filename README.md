@@ -499,6 +499,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/OmkarS25/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -896,6 +897,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/OmkarS25/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
