@@ -824,6 +824,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/OmkarS25/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1158,6 +1159,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/OmkarS25/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -1476,6 +1478,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
