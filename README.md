@@ -800,6 +800,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3483-alternating-groups-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1174,6 +1175,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3637-count-number-of-balanced-permutations](https://github.com/OmkarS25/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1403,6 +1405,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3427-special-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1497,6 +1500,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2215-finding-3-digit-even-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
