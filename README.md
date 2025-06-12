@@ -697,6 +697,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
