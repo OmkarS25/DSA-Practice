@@ -1,16 +1,15 @@
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        const int n = nums.size();
-        int ans = -1;
-        for(int i=0; i<n-1; i++){
-            for(int j=i+1; j<n; j++){
-                int tmp = -1;
-                if(nums[i] < nums[j]) tmp = nums[j] - nums[i];
-                ans = max(tmp, ans);
+        int cur_min = INT_MAX, max_diff = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] - cur_min > max_diff) {
+                // cout << i << " : " << nums[i] << endl;
+                max_diff = nums[i] - cur_min;
             }
+            cur_min = min(cur_min, nums[i]);
         }
-        return ans;
+        return max_diff == 0 ? -1 : max_diff;
     }
 };
 
