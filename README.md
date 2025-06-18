@@ -677,6 +677,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -876,6 +877,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -944,6 +946,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/OmkarS25/DSA-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
