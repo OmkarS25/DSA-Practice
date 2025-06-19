@@ -2,11 +2,10 @@ class Solution {
 public:
     int partitionArray(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
-        const int n = nums.size();
         int index = 0, res = 1;
-        for(int i=0; i<n; i++){
+        for(int i=1; i<nums.size(); i++){
             if(nums[i] - nums[index] > k){
-                res++;
+                ++res;
                 index = i;
             }
         }
