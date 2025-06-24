@@ -1,22 +1,19 @@
 class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
-        vector<int> v;
+        vector<int> ans;
         const int n = nums.size();
-        for(int i=0; i<n; i++){
-            if(nums[i] ==  key) v.push_back(i);
-        }
-        set<int> ans;
-        for(int ele : v){
-            for(int i = ele - k; i <= ele+k; i++){
-                if(i>=0 && i<n) ans.insert(i);
+        int start = 0;
+        for(int i=0;i<n;i++){
+            if (nums[i] == key){
+                int left = max(0,i-k), right = min(n-1,i+k);
+                while(start<=right){
+                    if (start>=left) ans.push_back(start);
+                    start++;
+                }
             }
         }
-        vector<int> res;
-        for(int i : ans){
-            res.push_back(i);
-        }
-        return res;
+        return ans;
     }
 };
 
