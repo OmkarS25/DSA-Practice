@@ -521,6 +521,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
@@ -794,6 +795,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
