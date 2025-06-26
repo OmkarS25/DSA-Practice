@@ -949,6 +949,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OmkarS25/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/OmkarS25/DSA-Practice/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1174,6 +1175,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1363,6 +1365,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/OmkarS25/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/OmkarS25/DSA-Practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1455,6 +1458,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Brainteaser
 |  |
 | ------- |
