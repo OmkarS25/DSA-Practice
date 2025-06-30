@@ -522,6 +522,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
@@ -726,6 +727,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/OmkarS25/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
@@ -800,6 +802,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
@@ -862,6 +865,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
@@ -909,6 +913,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
