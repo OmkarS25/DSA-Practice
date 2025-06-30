@@ -6,10 +6,14 @@ public:
             fq[a]++;
         }
         int ans = 0;
-        for(int a : nums){
-            if(fq.find(a+1) != fq.end()){
-                ans = max(ans, fq[a]+fq[a+1]);
-            }
+        // for(int a : nums){
+        //     if(fq.find(a+1) != fq.end()){
+        //         ans = max(ans, fq[a]+fq[a+1]);
+        //     }
+        // }
+        for(auto& [key, val] : fq){
+            if (fq.count(key + 1))
+                ans = max(ans, val + fq[key + 1]);
         }
         return ans;
     }
