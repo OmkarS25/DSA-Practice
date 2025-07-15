@@ -1246,6 +1246,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/OmkarS25/DSA-Practice/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3451-string-compression-iii) |
