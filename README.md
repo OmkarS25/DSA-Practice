@@ -730,6 +730,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmkarS25/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -818,6 +819,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/OmkarS25/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmkarS25/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1017,6 +1019,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmkarS25/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
