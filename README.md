@@ -640,6 +640,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2292-counting-words-with-a-given-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmkarS25/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
