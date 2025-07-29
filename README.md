@@ -465,6 +465,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmkarS25/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/OmkarS25/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/OmkarS25/DSA-Practice/tree/master/2634-minimum-common-value) |
@@ -657,6 +658,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/OmkarS25/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/OmkarS25/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/OmkarS25/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/OmkarS25/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmkarS25/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -836,6 +838,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/OmkarS25/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/OmkarS25/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1105,6 +1108,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmkarS25/DSA-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/OmkarS25/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmkarS25/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/OmkarS25/DSA-Practice/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/OmkarS25/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
