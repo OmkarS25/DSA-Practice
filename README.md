@@ -514,6 +514,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/OmkarS25/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
@@ -1419,6 +1420,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
