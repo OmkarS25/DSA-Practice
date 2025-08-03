@@ -463,6 +463,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2179-most-beautiful-item-for-each-query](https://github.com/OmkarS25/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmkarS25/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/OmkarS25/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -631,6 +632,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/OmkarS25/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OmkarS25/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
@@ -839,6 +841,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/OmkarS25/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/2478-longest-nice-subarray) |
@@ -1525,6 +1528,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/OmkarS25/DSA-Practice/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2465-shifting-letters-ii) |
