@@ -543,6 +543,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/OmkarS25/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
@@ -761,6 +762,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/OmkarS25/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -839,6 +841,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/OmkarS25/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/OmkarS25/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
