@@ -764,6 +764,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -917,6 +918,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
@@ -966,6 +968,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
@@ -1058,6 +1061,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1654,6 +1658,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/OmkarS25/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
