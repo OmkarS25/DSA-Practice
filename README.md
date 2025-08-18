@@ -533,6 +533,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
@@ -1064,6 +1065,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
@@ -1115,6 +1117,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
