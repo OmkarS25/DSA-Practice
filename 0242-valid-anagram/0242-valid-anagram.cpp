@@ -9,11 +9,10 @@ static const bool _=[]()noexcept{
 class Solution {
 public:
     bool isAnagram(string s, string t){
-        const int n = s.size();
-        if(n != t.size()) return 0;
+        if(s.size() != t.size()) return 0;
         uint16_t freqTable[26] = {0};
         uint16_t i=0;
-        for(i=0; i<n; i++){
+        for(i=0; i<s.size(); i++){
             freqTable[s[i]-97]++;
             freqTable[t[i]-97]--;
         }
