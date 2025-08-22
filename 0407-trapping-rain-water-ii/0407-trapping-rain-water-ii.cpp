@@ -1,16 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
-#define LC_HACK
-#ifdef LC_HACK
-const auto __ = []() {
-    struct ___ {
-        static void _() { std::ofstream("display_runtime.txt") << 0 << '\n'; }
-    };
-    std::atexit(&___::_);
-    return 0;
-}();
-#endif
 class Solution {
 public:
     int trapRainWater(vector<vector<int>>& grid) {
@@ -57,3 +44,10 @@ public:
         return trapped_water;
     }
 };
+
+#pragma GCC optimize ("O3", "unroll-loops")
+static const int _=[]()noexcept{
+    ios::sync_with_stdio(0);
+    cin.tie(0);cout.tie(0);
+    return 0;
+}();
