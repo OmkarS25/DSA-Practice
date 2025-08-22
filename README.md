@@ -891,6 +891,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/OmkarS25/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmkarS25/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/OmkarS25/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1260,6 +1261,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
+| [0953-reverse-only-letters](https://github.com/OmkarS25/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
