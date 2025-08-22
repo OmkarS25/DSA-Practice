@@ -11,12 +11,12 @@ public:
     bool isAnagram(string s, string t){
         const int n = s.size(), m = t.size();
         if(n != m) return 0;
-        int freqTable[256] = {0};
+        int freqTable[26] = {0};
         for(int i=0; i<n; i++){
-            freqTable[s[i]]++;
-            freqTable[t[i]]--;
+            freqTable[s[i]-97]++;
+            freqTable[t[i]-97]--;
         }
-        for(int i=0; i<256; i++){
+        for(int i=0; i<26; i++){
             if(freqTable[i] != 0) return 0;
         }
         return 1;
