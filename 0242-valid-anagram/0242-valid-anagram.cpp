@@ -5,21 +5,39 @@ static const int _=[]()noexcept{
     return 0;
 }();
 
-// Sorting Approach
+// Frequecy Table
 class Solution {
 public:
     bool isAnagram(string s, string t){
-        int n = s.size(), m = t.size();
+        const int n = s.size(), m = t.size();
         if(n != m) return 0;
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-        for(int i=0; i<n; i++)
-            if(s[i] != t[i]) return 0;
+        int freqTable[256] = {0};
+        for(int i=0; i<n; i++){
+            freqTable[s[i]]++;
+            freqTable[t[i]]--;
+        }
+        for(int i=0; i<256; i++){
+            if(freqTable[i] != 0) return 0;
+        }
         return 1;
     }
 };
 
-// HashMap Method
+// // Sorting Approach
+// class Solution {
+// public:
+//     bool isAnagram(string s, string t){
+//         int n = s.size(), m = t.size();
+//         if(n != m) return 0;
+//         sort(s.begin(), s.end());
+//         sort(t.begin(), t.end());
+//         for(int i=0; i<n; i++)
+//             if(s[i] != t[i]) return 0;
+//         return 1;
+//     }
+// };
+
+// // HashMap Method
 // class Solution {
 // public:
 //     bool isAnagram(string s, string t) {
