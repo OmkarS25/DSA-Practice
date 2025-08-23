@@ -731,6 +731,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3427-special-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/OmkarS25/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1411,6 +1412,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1703,6 +1705,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2202-sum-of-k-mirror-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
