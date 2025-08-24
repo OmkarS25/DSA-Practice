@@ -585,6 +585,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/OmkarS25/DSA-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmkarS25/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -857,6 +858,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/OmkarS25/DSA-Practice/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmkarS25/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/OmkarS25/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmkarS25/DSA-Practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1501,6 +1503,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmkarS25/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/OmkarS25/DSA-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
