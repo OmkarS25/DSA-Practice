@@ -531,6 +531,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -1190,6 +1191,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -1384,6 +1386,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/OmkarS25/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/OmkarS25/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
