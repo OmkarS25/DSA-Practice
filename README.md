@@ -761,6 +761,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
@@ -853,6 +854,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/OmkarS25/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -1253,6 +1255,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
