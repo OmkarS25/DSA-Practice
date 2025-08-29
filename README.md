@@ -1120,6 +1120,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3201-distribute-candies-among-children-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/OmkarS25/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/OmkarS25/DSA-Practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
