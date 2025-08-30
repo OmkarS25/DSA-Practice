@@ -1,22 +1,28 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& s) {
-        int minSize = INT_MAX;
-        for(const auto &str : s) minSize = min(minSize, static_cast<int>(str.size()));
-        int count = 0;
-        for(int i=0; i<minSize; i++){
-            char ch = s[0][i];
-            bool broken = false;
-            for(int j=1; j<s.size(); j++){
-                if(s[j][i] != ch) {
-                    broken = true;
+        string ans = "";
+        int i=0; 
+        while (true){
+            char curr_ch = 0;
+            for(auto &str : s){
+                if(i >= str.size()){
+                    // out of bound
+                    curr_ch = 0;
+                    break;
+                }
+                // just started
+                if(curr_ch == 0) curr_ch = str[i];
+                else if(str[i] != curr_ch){
+                    curr_ch = 0;
                     break;
                 }
             }
-            if(broken) break;
-            count++;
+            if(curr_ch == 0) break;
+            ans += curr_ch;
+            i++;
         }
-        return s[0].substr(0, count);
+        return ans;
     }
 };
 
