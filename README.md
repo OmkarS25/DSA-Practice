@@ -514,6 +514,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -765,6 +766,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
@@ -1135,6 +1137,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0113-path-sum-ii) |
@@ -1394,6 +1397,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
