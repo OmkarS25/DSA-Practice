@@ -2,8 +2,7 @@ class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
         sort(points.begin(), points.end(), [](const auto& a, const auto& b) {
-            if (a[0] == b[0]) return a[1] > b[1];
-            return a[0] < b[0];                  
+            return (a[0] == b[0]) ? a[1] > b[1] : a[0] < b[0];                  
         });
 
         int n = points.size(), result = 0;
