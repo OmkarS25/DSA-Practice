@@ -609,6 +609,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/OmkarS25/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/OmkarS25/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/OmkarS25/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -810,6 +811,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/OmkarS25/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1044,6 +1046,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/OmkarS25/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
