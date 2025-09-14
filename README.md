@@ -556,6 +556,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/OmkarS25/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/OmkarS25/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/OmkarS25/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
@@ -794,6 +795,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0940-fruit-into-baskets](https://github.com/OmkarS25/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1307,6 +1309,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/OmkarS25/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
