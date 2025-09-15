@@ -800,6 +800,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/OmkarS25/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -1313,6 +1314,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/OmkarS25/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1304-longest-happy-string) |
