@@ -7,7 +7,7 @@ class TaskManager {
 
 public:
     TaskManager(vector<vector<int>>& tasks) {
-        // fill(mp, mp+100001, make_pair(-1, -1));
+        fill(mp, mp+100001, make_pair(-1, -1));
         for (auto& t : tasks) {
             int u = t[0], i = t[1], p = t[2];
             maxI = max(maxI, i);
