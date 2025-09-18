@@ -2,7 +2,7 @@ class TaskManager {
     // modified C-array version
     using int2 = pair<int, int>;
     int2 mp[100001]; // taskID->(prioity, userId)
-    // int maxI = -1;
+    int maxI = -1;
     priority_queue<int2> pq; //(priority, taskID)
 
 public:
@@ -10,13 +10,13 @@ public:
         // fill(mp, mp+100001, make_pair(-1, -1));
         for (auto& t : tasks) {
             int u = t[0], i = t[1], p = t[2];
-            // maxI = max(maxI, i);
+            maxI = max(maxI, i);
             mp[i] = {p, u};
             pq.emplace(p, i);
         }
     }
 
-    // ~TaskManager() { memset(mp, -1, 8 * (maxI + 1)); }
+    ~TaskManager() { memset(mp, -1, 8 * (maxI + 1)); }
 
     void add(int userId, int taskId, int priority) {
         mp[taskId] = {priority, userId};
