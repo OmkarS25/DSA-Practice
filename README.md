@@ -919,6 +919,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1307,6 +1308,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
