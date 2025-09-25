@@ -13,3 +13,5 @@ public:
         return *min_element(dp.begin(), dp.end());
     }
 };
+
+// https://leetcode.com/problems/triangle/solutions/7221419/recursive-dp-vs-iterative-dp-with-o-1-space-beats-100
