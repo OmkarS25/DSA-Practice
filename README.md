@@ -513,6 +513,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
@@ -924,6 +925,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -1062,6 +1064,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/OmkarS25/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
