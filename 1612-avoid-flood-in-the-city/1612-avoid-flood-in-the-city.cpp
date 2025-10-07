@@ -11,7 +11,7 @@ public:
             if(rains[i] == 0)  dryDays.push_back(i);
             else {
                 int lake = rains[i];
-                if(hash.find(lake) != hash.end()) {
+                if(hash[lake]) {
                     int j=0;
                     while(j < dryDays.size() && dryDays[j] < hash[lake] - 1) {
                         j++;
