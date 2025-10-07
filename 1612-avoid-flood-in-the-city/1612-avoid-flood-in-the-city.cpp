@@ -3,33 +3,28 @@ public:
     vector<int> avoidFlood(vector<int>& rains) {
         const int n = rains.size();
         vector<int> res(n, -1);
+        unordered_map<int, int> lakeLastFilled;
+        set<int> dryDays;  // stores indices of dry days
 
-        unordered_map<int, int> hash;
-        vector<int> dryDays;
-
-        for(int i=0; i<n; i++) {
-            if(rains[i] == 0)  dryDays.push_back(i);
-            else {
-                int lake = rains[i];
-                if(hash[lake]) {
-                    int j=0;
-                    while(j < dryDays.size() && dryDays[j] < hash[lake] - 1) {
-                        j++;
-                    }
-                    if(j >= dryDays.size()) return {};
-                    else {
-                        res[dryDays[j]] = lake;
-                        dryDays.erase(dryDays.begin()+j);
-                        hash[lake] = i+1;
-                    }
-                } else {
-                    hash[lake] = i+1;
+        for (int i = 0; i < n; ++i) {
+            int lake = rains[i];
+            if (lake == 0) {
+                dryDays.insert(i);  // mark this day as available for drying
+            } else {
+                if (lakeLastFilled.count(lake)) {
+                    // Find the earliest dry day after the last time this lake was filled
+                    auto it = dryDays.upper_bound(lakeLastFilled[lake]);
+                    if (it == dryDays.end()) return {};  // no valid dry day found
+                    res[*it] = lake;  // dry this lake on that day
+                    dryDays.erase(it);  // remove used dry day
                 }
+                lakeLastFilled[lake] = i;  // update last filled day
             }
         }
-        for(int i=0; i<n; i++) {
-            if(rains[i] == 0 && res[i] == -1) res[i] = 1;
-        }
+
+        // Fill remaining dry days with arbitrary lake (e.g., 1)
+        for (int day : dryDays) res[day] = 1;
+
         return res;
     }
 };
