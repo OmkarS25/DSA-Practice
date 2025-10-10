@@ -1,12 +1,12 @@
 class Solution {
 public:
     int maximumEnergy(vector<int>& energy, int k) {
-        const int n = energy.size();
-        for (int i = n - 1; i >= 0; i--) {
-            int nxt = i + k;
-            if (nxt < n) energy[i] += energy[nxt];
+        int n = energy.size(), res = INT_MIN;
+        vector<int> dp(n, 0);
+        for (int i = n-1; i >= 0; i--) {
+            dp[i] = energy[i] + (i + k < n ? dp[i + k] : 0);
+            if(dp[i] > res) res = dp[i];
         }
-        int ans = *max_element(energy.begin(), energy.end());
-        return ans;
+        return res;
     }
 };
