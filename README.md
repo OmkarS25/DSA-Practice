@@ -1292,6 +1292,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1701,6 +1702,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/OmkarS25/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/OmkarS25/DSA-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1828,6 +1830,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmkarS25/DSA-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
