@@ -554,6 +554,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -1424,6 +1425,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1684,6 +1686,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
