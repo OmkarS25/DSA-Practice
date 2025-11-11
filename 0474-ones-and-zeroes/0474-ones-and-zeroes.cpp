@@ -1,7 +1,6 @@
 class Solution {
 public:
     int findMaxForm(vector<string>& strs, int m, int n) {
-        auto &n0 = m, &n1 = n;
         array<array<int, 101>, 101> dp{};
         for (auto& str : strs) { // O (600 *100 *100) == 6e6
             int c0 = ranges::count(str, '0');
