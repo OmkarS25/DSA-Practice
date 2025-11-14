@@ -836,6 +836,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/OmkarS25/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/OmkarS25/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
@@ -1424,6 +1425,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/OmkarS25/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/OmkarS25/DSA-Practice/tree/master/0242-valid-anagram) |
