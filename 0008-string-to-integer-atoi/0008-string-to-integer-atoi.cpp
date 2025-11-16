@@ -4,13 +4,15 @@ public:
         if(s.length() == 0) return 0;
         int num=0;
         try{
-        num = stoi(s);
-        } catch (const out_of_range&){
+            num = stoi(s);
+        } 
+        catch (const out_of_range&){
             for(char a:s){
                 if(a=='-') return INT_MIN;
             }
             return INT_MAX;
-        } catch (const invalid_argument&){
+        } 
+        catch (const invalid_argument&){
             return 0;
         }
         return num;
