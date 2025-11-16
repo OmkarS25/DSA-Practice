@@ -991,6 +991,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
@@ -1432,6 +1433,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
@@ -1884,6 +1886,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
