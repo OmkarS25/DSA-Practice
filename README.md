@@ -988,6 +988,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
@@ -1428,6 +1429,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -1701,6 +1703,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
