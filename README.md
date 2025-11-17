@@ -1001,6 +1001,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/OmkarS25/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1448,6 +1449,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/OmkarS25/DSA-Practice/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
