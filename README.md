@@ -564,6 +564,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0643-maximum-average-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/OmkarS25/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
