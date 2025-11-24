@@ -587,6 +587,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/OmkarS25/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/OmkarS25/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/OmkarS25/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
@@ -1329,6 +1330,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0461-hamming-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/OmkarS25/DSA-Practice/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
