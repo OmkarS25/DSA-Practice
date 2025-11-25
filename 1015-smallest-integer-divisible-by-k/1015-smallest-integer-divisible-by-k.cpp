@@ -4,7 +4,7 @@ public:
         int rem = 0; // Remainder after forming repunit numbers step-by-step
         // Try repunits of increasing length: 1, 11, 111, ...
         // Bound = 2*k ensures we detect cycles and avoid infinite loops
-        for (int length = 1; length <= k * 2; length++) {
+        for (int length = 1; length <= k /* *2 */; length++) {
             rem = (rem * 10 + 1) % k; // Add a new digit '1': (previous_number * 10 + 1) % k
             if(rem == 0) return length; // If remainder becomes 0, this repunit is divisible by k
         }
