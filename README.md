@@ -820,6 +820,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -957,6 +958,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/OmkarS25/DSA-Practice/tree/master/3678-design-task-manager) |
@@ -1314,6 +1316,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/OmkarS25/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -2072,6 +2075,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bitmask
 |  |
 | ------- |
