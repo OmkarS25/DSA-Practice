@@ -2103,4 +2103,8 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/OmkarS25/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/OmkarS25/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
