@@ -673,6 +673,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2079-delete-duplicate-folders-in-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/OmkarS25/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1289,6 +1290,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2050-count-good-numbers) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1552,6 +1554,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2079-delete-duplicate-folders-in-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1679,6 +1682,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1972-rotating-the-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/OmkarS25/DSA-Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
