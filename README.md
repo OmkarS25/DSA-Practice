@@ -1259,6 +1259,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0326-power-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
@@ -1414,6 +1415,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
@@ -1506,6 +1508,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/OmkarS25/DSA-Practice/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
