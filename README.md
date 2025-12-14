@@ -330,6 +330,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/OmkarS25/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1264,6 +1265,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/OmkarS25/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -1797,6 +1799,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/OmkarS25/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
