@@ -674,6 +674,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2079-delete-duplicate-folders-in-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarS25/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1301,6 +1302,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarS25/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/OmkarS25/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
@@ -1837,6 +1839,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/OmkarS25/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/OmkarS25/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarS25/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/OmkarS25/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/OmkarS25/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
