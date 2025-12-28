@@ -469,6 +469,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0794-swim-in-rising-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmkarS25/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmkarS25/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/OmkarS25/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -615,6 +616,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmkarS25/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -1713,6 +1715,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
