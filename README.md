@@ -299,6 +299,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -345,6 +346,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
@@ -435,6 +437,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -530,6 +533,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0988-flip-equivalent-binary-trees](https://github.com/OmkarS25/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
