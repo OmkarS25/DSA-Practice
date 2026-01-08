@@ -640,6 +640,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/OmkarS25/DSA-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmkarS25/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/OmkarS25/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1878,6 +1879,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmkarS25/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1628-count-submatrices-with-all-ones) |
