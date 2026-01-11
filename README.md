@@ -566,6 +566,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/OmkarS25/DSA-Practice/tree/master/0134-gas-station) |
@@ -1693,6 +1694,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
@@ -1736,6 +1738,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
@@ -1856,6 +1859,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -2125,6 +2129,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/OmkarS25/DSA-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
