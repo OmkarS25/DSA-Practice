@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int cal(vector<int>& nums){
-        int c = 1, ans = 1;
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == nums[i - 1] + 1) c++;
-            else c = 1;
-            ans = max(ans, c);
+    int findgap( vector<int> bars){
+        sort(bars.begin(),bars.end());
+        int count = 2, res = 2;
+        for(int i=1; i<bars.size(); i++){
+            if(bars[i-1] + 1 == bars[i]) count++; // consecutive bars
+            else count = 2;
+            res = max(count, res);
         }
-        return ans;
+        return res;
     }
     int maximizeSquareHoleArea(int n, int m, vector<int>& hBars, vector<int>& vBars) {
-        sort(hBars.begin(), hBars.end());
-        sort(vBars.begin(), vBars.end());
-        int side = min(cal(hBars), cal(vBars)) + 1;
-        return side * side;
+        int gap = min(findgap(hBars),findgap(vBars)); // find horizontal gap and vertical gap
+        return gap * gap; // for square take min of horizonal and vertical
     }
 };
-
-// Sorted the horizontal and vertical bars, then found the longest consecutive sequences in each.
-// The side of the largest square is determined by the smaller of these sequences plus one, and the area is the square of that.
