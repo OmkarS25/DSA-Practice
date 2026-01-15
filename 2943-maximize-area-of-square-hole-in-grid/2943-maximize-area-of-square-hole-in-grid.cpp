@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findgap( vector<int> bars){
+    int findgap(vector<int>& bars){
         sort(bars.begin(),bars.end());
         int count = 2, res = 2;
         for(int i=1; i<bars.size(); i++){
