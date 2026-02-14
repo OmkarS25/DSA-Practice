@@ -1951,6 +1951,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/OmkarS25/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/OmkarS25/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0867-new-21-game) |
