@@ -1483,6 +1483,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/OmkarS25/DSA-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0461-hamming-distance) |
@@ -1866,6 +1867,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
