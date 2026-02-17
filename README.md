@@ -1468,6 +1468,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/OmkarS25/DSA-Practice/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -1486,6 +1487,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0190-reverse-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/OmkarS25/DSA-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/OmkarS25/DSA-Practice/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/OmkarS25/DSA-Practice/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
