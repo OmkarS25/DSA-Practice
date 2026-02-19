@@ -1129,6 +1129,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0443-string-compression](https://github.com/OmkarS25/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -1653,6 +1654,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0567-permutation-in-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
+| [0696-count-binary-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
