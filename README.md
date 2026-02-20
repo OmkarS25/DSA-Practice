@@ -1175,6 +1175,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/OmkarS25/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
@@ -1658,6 +1659,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
@@ -1873,6 +1875,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
