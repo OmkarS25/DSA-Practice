@@ -1382,6 +1382,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OmkarS25/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/OmkarS25/DSA-Practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
@@ -1494,6 +1495,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0476-number-complement](https://github.com/OmkarS25/DSA-Practice/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OmkarS25/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
