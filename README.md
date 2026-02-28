@@ -1415,6 +1415,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/OmkarS25/DSA-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/OmkarS25/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1513,6 +1514,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/OmkarS25/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1573,6 +1575,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/OmkarS25/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
