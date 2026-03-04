@@ -1575,6 +1575,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/OmkarS25/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/OmkarS25/DSA-Practice/tree/master/1803-average-waiting-time) |
@@ -1627,6 +1628,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1706,6 +1708,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/OmkarS25/DSA-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/OmkarS25/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
