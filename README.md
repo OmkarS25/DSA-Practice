@@ -698,6 +698,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/OmkarS25/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/OmkarS25/DSA-Practice/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarS25/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/OmkarS25/DSA-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/OmkarS25/DSA-Practice/tree/master/1755-defuse-the-bomb) |
@@ -1206,6 +1207,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmkarS25/DSA-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/OmkarS25/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarS25/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1332,6 +1334,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/OmkarS25/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarS25/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1887,6 +1890,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1628-count-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/OmkarS25/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarS25/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/OmkarS25/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/OmkarS25/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
