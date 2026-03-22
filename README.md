@@ -711,6 +711,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1876-map-of-highest-peak](https://github.com/OmkarS25/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/OmkarS25/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/OmkarS25/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/OmkarS25/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -1898,6 +1899,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/OmkarS25/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/OmkarS25/DSA-Practice/tree/master/1876-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/OmkarS25/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/OmkarS25/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1972-rotating-the-box) |
