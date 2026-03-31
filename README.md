@@ -1386,6 +1386,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/OmkarS25/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
@@ -1815,6 +1816,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3451-string-compression-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/OmkarS25/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -2257,6 +2259,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
