@@ -930,6 +930,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmkarS25/DSA-Practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/OmkarS25/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/OmkarS25/DSA-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/OmkarS25/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1655,6 +1656,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/OmkarS25/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1970,6 +1972,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
