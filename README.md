@@ -596,6 +596,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0349-intersection-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/OmkarS25/DSA-Practice/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1429,6 +1430,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0326-power-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/OmkarS25/DSA-Practice/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
@@ -2071,6 +2073,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0264-ugly-number-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/OmkarS25/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/OmkarS25/DSA-Practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
