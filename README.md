@@ -1436,6 +1436,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/OmkarS25/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/OmkarS25/DSA-Practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
@@ -2076,6 +2077,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/OmkarS25/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/OmkarS25/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
