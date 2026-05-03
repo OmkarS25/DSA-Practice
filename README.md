@@ -1745,6 +1745,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -2297,6 +2298,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
