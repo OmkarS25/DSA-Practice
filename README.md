@@ -579,6 +579,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/OmkarS25/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -1418,6 +1419,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/OmkarS25/DSA-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/OmkarS25/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1916,6 +1918,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0036-valid-sudoku](https://github.com/OmkarS25/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/OmkarS25/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
