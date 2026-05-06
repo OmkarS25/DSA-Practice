@@ -18,7 +18,7 @@ public:
             count++;
             temp = temp->next;
         }
-        k = k%count;
+        k = k%count; 
         while(k){
             ListNode *last = head, *secLast = head;
             while(last->next != NULL){
