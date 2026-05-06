@@ -1158,6 +1158,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0011-container-with-most-water](https://github.com/OmkarS25/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0165-compare-version-numbers) |
@@ -1605,6 +1606,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/OmkarS25/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/0206-reverse-linked-list) |
