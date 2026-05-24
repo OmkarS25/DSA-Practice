@@ -658,6 +658,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1325-path-with-maximum-probability](https://github.com/OmkarS25/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmkarS25/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1233,6 +1234,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmkarS25/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -2113,6 +2115,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1262-greatest-sum-divisible-by-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/OmkarS25/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
