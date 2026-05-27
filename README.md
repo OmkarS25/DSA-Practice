@@ -1071,6 +1071,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2915-count-of-interesting-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/OmkarS25/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/OmkarS25/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1846,6 +1847,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OmkarS25/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/OmkarS25/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/OmkarS25/DSA-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
