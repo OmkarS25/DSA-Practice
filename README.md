@@ -354,6 +354,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1345-jump-game-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/OmkarS25/DSA-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -659,6 +660,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1333-sort-the-jumbled-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmkarS25/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmkarS25/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1012,6 +1014,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/OmkarS25/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
