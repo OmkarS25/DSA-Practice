@@ -535,6 +535,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/OmkarS25/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -941,6 +942,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3640-trionic-array-ii) |
@@ -1219,6 +1221,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -1315,6 +1318,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/OmkarS25/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1435,6 +1439,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/OmkarS25/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
