@@ -28,12 +28,20 @@ public:
 
         int maxDepth = dfs(1, adj, visited);
 
+        cout<<"Max Depth: "<<maxDepth;
+
         vector<vector<long long>> dp(maxDepth+1, vector<long long>(2, 0));
-        dp[0][0] = 1; // Base Case
+
+        // Base Case
+        dp[0][0] = 1; // To make even no. odd we need to start with 1. 
+        dp[0][1] = 0; // To make odd no. even we need to start with 0.
+
+        // 1  1  2  4  8
+        // 0  1  2  4  8
 
         for(int i=1; i<=maxDepth; i++){
-            dp[i][0] = (dp[i-1][0] + dp[i-1][1]) % MOD;
-            dp[i][1] = (dp[i-1][0] + dp[i-1][1]) % MOD;
+            dp[i][0] = (dp[i-1][0] + dp[i-1][1]) % MOD; // even sum
+            dp[i][1] = (dp[i-1][0] + dp[i-1][1]) % MOD; // odd sum
         }
         
         return dp[maxDepth][1] % MOD;
