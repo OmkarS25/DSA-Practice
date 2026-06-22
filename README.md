@@ -1023,6 +1023,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarS25/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -1340,6 +1341,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarS25/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
@@ -1812,6 +1814,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1189-maximum-number-of-balloons](https://github.com/OmkarS25/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/OmkarS25/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
