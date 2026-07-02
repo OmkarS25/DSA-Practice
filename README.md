@@ -766,6 +766,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1220,6 +1221,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1707,6 +1709,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/OmkarS25/DSA-Practice/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/OmkarS25/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
