@@ -2453,6 +2453,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2429-design-a-food-rating-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
+| [3161-block-placement-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
