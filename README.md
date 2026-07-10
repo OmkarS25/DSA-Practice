@@ -535,6 +535,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3454-separate-squares-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -930,6 +931,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/OmkarS25/DSA-Practice/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/OmkarS25/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/OmkarS25/DSA-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1241,6 +1243,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/OmkarS25/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/OmkarS25/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/OmkarS25/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1336,6 +1339,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3433-count-mentions-per-user](https://github.com/OmkarS25/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/OmkarS25/DSA-Practice/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/OmkarS25/DSA-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/OmkarS25/DSA-Practice/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1463,6 +1467,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/OmkarS25/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1662,6 +1667,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -2245,6 +2251,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/OmkarS25/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/OmkarS25/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -2589,6 +2596,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OmkarS25/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/OmkarS25/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
