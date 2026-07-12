@@ -7,13 +7,24 @@ static const int _=[]()noexcept{ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);r
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        set<int> s;
-        for(int& a : arr) s.insert(a);
-        set<int>::iterator it;
-        unordered_map<int, int> values;
-        int i=1;
-        for (it = s.begin(); it != s.end(); it++, i++) values[*it] = i;
-        for(int i=0; i< arr.size(); i++) arr[i] = values[arr[i]];
-        return arr;
+        const int n = arr.size();
+        if (n == 0) return {};
+
+        vector<int> res(n);
+        vector<pair<int,int>> temp(n);
+
+        for (int i = 0; i < n; i++) 
+            temp[i] = {arr[i],i};
+
+        sort(temp.begin(),temp.end(),[](pair<int,int> &a , pair<int,int> &b) {
+            return a.first < b.first;
+        });
+
+        res[temp[0].second] = 1;
+        
+        for (int i = 1; i < n; i++) {
+            res[temp[i].second] = res[temp[i - 1].second] + ((temp[i].first == temp[i - 1].first) ? 0 : 1);
+        }
+        return res;
     }
 };
