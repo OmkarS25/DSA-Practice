@@ -1590,6 +1590,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/OmkarS25/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -2388,6 +2389,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/OmkarS25/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
