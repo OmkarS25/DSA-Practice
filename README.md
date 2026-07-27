@@ -910,6 +910,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3379-transformed-array) |
@@ -1585,6 +1586,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3312-sorted-gcd-pair-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/OmkarS25/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -2268,6 +2270,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/OmkarS25/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/OmkarS25/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/OmkarS25/DSA-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -2407,6 +2410,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/OmkarS25/DSA-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OmkarS25/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
