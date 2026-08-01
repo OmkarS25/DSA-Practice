@@ -616,6 +616,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/OmkarS25/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -1533,6 +1534,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0368-largest-divisible-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/OmkarS25/DSA-Practice/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1821,6 +1823,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmkarS25/DSA-Practice/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -2240,6 +2243,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0396-rotate-function](https://github.com/OmkarS25/DSA-Practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/OmkarS25/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
@@ -2438,6 +2442,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
