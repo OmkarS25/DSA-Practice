@@ -641,6 +641,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0859-design-circular-deque](https://github.com/OmkarS25/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmkarS25/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1548,6 +1549,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0840-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -2254,6 +2256,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0826-soup-servings](https://github.com/OmkarS25/DSA-Practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmkarS25/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -2443,6 +2446,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
