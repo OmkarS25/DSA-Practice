@@ -762,6 +762,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmkarS25/DSA-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/OmkarS25/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/OmkarS25/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/OmkarS25/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1408,6 +1409,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OmkarS25/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1472,6 +1474,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/OmkarS25/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1584,6 +1587,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/OmkarS25/DSA-Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -2457,6 +2461,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2702,4 +2707,16 @@ This repository contains solutions to various data structures and algorithms pra
 | [2573-find-the-string-with-lcp](https://github.com/OmkarS25/DSA-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
