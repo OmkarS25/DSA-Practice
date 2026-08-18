@@ -940,6 +940,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3454-separate-squares-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-alternating-groups-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1143,6 +1144,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
