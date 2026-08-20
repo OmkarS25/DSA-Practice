@@ -685,6 +685,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/OmkarS25/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/OmkarS25/DSA-Practice/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/OmkarS25/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
@@ -1067,6 +1068,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1345-jump-game-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/OmkarS25/DSA-Practice/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/OmkarS25/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1460,6 +1462,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1262-greatest-sum-divisible-by-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/OmkarS25/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/OmkarS25/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1706,6 +1709,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1018-binary-prefix-divisible-by-5](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1054-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmkarS25/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/OmkarS25/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/OmkarS25/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
