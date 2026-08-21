@@ -891,6 +891,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarS25/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarS25/DSA-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1817,6 +1818,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/OmkarS25/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3379-transformed-array) |
