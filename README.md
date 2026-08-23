@@ -1483,6 +1483,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1834-minimum-number-of-people-to-teach](https://github.com/OmkarS25/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/OmkarS25/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/OmkarS25/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
@@ -1594,6 +1595,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/OmkarS25/DSA-Practice/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmkarS25/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1957,6 +1959,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -2477,6 +2480,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
