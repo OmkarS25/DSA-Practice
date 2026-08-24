@@ -745,6 +745,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/OmkarS25/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/OmkarS25/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/OmkarS25/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -1593,6 +1594,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1636-number-of-substrings-with-only-1s](https://github.com/OmkarS25/DSA-Practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/OmkarS25/DSA-Practice/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/OmkarS25/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
@@ -2318,6 +2320,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/OmkarS25/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/OmkarS25/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmkarS25/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -2431,6 +2434,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/OmkarS25/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/OmkarS25/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/OmkarS25/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -2480,6 +2484,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/OmkarS25/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -2732,6 +2737,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -2740,5 +2746,6 @@ This repository contains solutions to various data structures and algorithms pra
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
