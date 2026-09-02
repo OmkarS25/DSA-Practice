@@ -544,6 +544,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3453-separate-squares-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -964,6 +965,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/OmkarS25/DSA-Practice/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1163,6 +1165,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/OmkarS25/DSA-Practice/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/OmkarS25/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/OmkarS25/DSA-Practice/tree/master/3583-count-special-triplets) |
@@ -2742,6 +2745,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OmkarS25/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/OmkarS25/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
@@ -2751,6 +2755,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2685-count-the-number-of-complete-components](https://github.com/OmkarS25/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimax
 |  |
