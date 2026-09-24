@@ -967,6 +967,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3531-count-covered-buildings](https://github.com/OmkarS25/DSA-Practice/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OmkarS25/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/OmkarS25/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1665,6 +1666,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OmkarS25/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
