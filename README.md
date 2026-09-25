@@ -355,6 +355,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0945-snakes-and-ladders](https://github.com/OmkarS25/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/OmkarS25/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/OmkarS25/DSA-Practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1345-jump-game-iv](https://github.com/OmkarS25/DSA-Practice/tree/master/1345-jump-game-iv) |
@@ -1073,6 +1074,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0999-regions-cut-by-slashes](https://github.com/OmkarS25/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/OmkarS25/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1189-maximum-number-of-balloons](https://github.com/OmkarS25/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmkarS25/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1327,6 +1329,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0900-reordered-power-of-2](https://github.com/OmkarS25/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1707,6 +1710,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmkarS25/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1948,6 +1952,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/OmkarS25/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -2088,6 +2093,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmkarS25/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
