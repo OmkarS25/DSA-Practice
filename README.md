@@ -1910,6 +1910,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0008-string-to-integer-atoi](https://github.com/OmkarS25/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -2082,6 +2083,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -2781,4 +2783,8 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
