@@ -1702,6 +1702,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/OmkarS25/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
@@ -1911,6 +1912,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0012-integer-to-roman](https://github.com/OmkarS25/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -2298,6 +2300,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
@@ -2787,4 +2790,5 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
