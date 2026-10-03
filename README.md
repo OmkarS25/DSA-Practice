@@ -1914,6 +1914,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/OmkarS25/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/OmkarS25/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/OmkarS25/DSA-Practice/tree/master/0067-add-binary) |
@@ -2086,6 +2087,7 @@ This repository contains solutions to various data structures and algorithms pra
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -2301,6 +2303,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmkarS25/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0120-triangle) |
@@ -2791,4 +2794,5 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
