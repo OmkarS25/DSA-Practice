@@ -1473,6 +1473,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0611-valid-triangle-number](https://github.com/OmkarS25/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmkarS25/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/OmkarS25/DSA-Practice/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/OmkarS25/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1936,6 +1937,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0592-fraction-addition-and-subtraction](https://github.com/OmkarS25/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/OmkarS25/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/OmkarS25/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
@@ -2091,6 +2093,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0084-largest-rectangle-in-histogram](https://github.com/OmkarS25/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/OmkarS25/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -2318,6 +2321,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/OmkarS25/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmkarS25/DSA-Practice/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/OmkarS25/DSA-Practice/tree/master/0799-champagne-tower) |
@@ -2795,4 +2799,5 @@ This repository contains solutions to various data structures and algorithms pra
 | [0020-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
