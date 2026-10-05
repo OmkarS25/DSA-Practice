@@ -1946,6 +1946,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -2098,6 +2099,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0726-number-of-atoms](https://github.com/OmkarS25/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/OmkarS25/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
@@ -2800,4 +2802,5 @@ This repository contains solutions to various data structures and algorithms pra
 | [0022-generate-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
