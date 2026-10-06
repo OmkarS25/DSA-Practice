@@ -1477,6 +1477,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0759-set-intersection-size-at-least-two](https://github.com/OmkarS25/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
@@ -1950,6 +1951,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0868-push-dominoes](https://github.com/OmkarS25/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmkarS25/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/OmkarS25/DSA-Practice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/OmkarS25/DSA-Practice/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -2101,6 +2103,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0780-max-chunks-to-make-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/OmkarS25/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/OmkarS25/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OmkarS25/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -2803,4 +2806,5 @@ This repository contains solutions to various data structures and algorithms pra
 | [0032-longest-valid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
