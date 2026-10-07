@@ -343,6 +343,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0112-path-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/OmkarS25/DSA-Practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/OmkarS25/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmkarS25/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1709,6 +1710,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0040-combination-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/OmkarS25/DSA-Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/OmkarS25/DSA-Practice/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0679-24-game) |
@@ -1928,6 +1930,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0241-different-ways-to-add-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/OmkarS25/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/OmkarS25/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/OmkarS25/DSA-Practice/tree/master/0415-add-strings) |
