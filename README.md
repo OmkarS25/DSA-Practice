@@ -1557,6 +1557,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3647-zero-array-transformation-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmkarS25/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1690,6 +1691,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/OmkarS25/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
