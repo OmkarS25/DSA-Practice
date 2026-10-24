@@ -1009,6 +1009,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/OmkarS25/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmkarS25/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1791,6 +1792,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmkarS25/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/OmkarS25/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
