@@ -667,6 +667,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/OmkarS25/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/OmkarS25/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/OmkarS25/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/OmkarS25/DSA-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/OmkarS25/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1200-minimum-absolute-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
@@ -1603,6 +1604,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1013-fibonacci-number](https://github.com/OmkarS25/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/OmkarS25/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/OmkarS25/DSA-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/OmkarS25/DSA-Practice/tree/master/1390-four-divisors) |
@@ -2355,6 +2357,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1025-minimum-cost-for-tickets](https://github.com/OmkarS25/DSA-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/OmkarS25/DSA-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/OmkarS25/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/OmkarS25/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/OmkarS25/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -2484,6 +2487,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OmkarS25/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -2541,6 +2545,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0486-predict-the-winner](https://github.com/OmkarS25/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/OmkarS25/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -2800,6 +2805,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -2809,6 +2815,7 @@ This repository contains solutions to various data structures and algorithms pra
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/OmkarS25/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/OmkarS25/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
