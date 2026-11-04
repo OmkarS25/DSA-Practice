@@ -962,6 +962,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1173,6 +1174,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3455-minimum-length-of-string-after-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1247,6 +1249,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1683,6 +1686,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/OmkarS25/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -2301,6 +2305,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -2433,6 +2438,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/OmkarS25/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/OmkarS25/DSA-Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
