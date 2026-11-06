@@ -879,6 +879,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2716-prime-subtraction-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/OmkarS25/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/OmkarS25/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/OmkarS25/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1150,6 +1151,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2677-cousins-in-binary-tree-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/OmkarS25/DSA-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/OmkarS25/DSA-Practice/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/OmkarS25/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1239,6 +1241,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/OmkarS25/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/OmkarS25/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/OmkarS25/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmkarS25/DSA-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1397,6 +1400,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2681-put-marbles-in-bags](https://github.com/OmkarS25/DSA-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/OmkarS25/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/OmkarS25/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/OmkarS25/DSA-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
