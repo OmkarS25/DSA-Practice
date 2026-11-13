@@ -952,6 +952,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/OmkarS25/DSA-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/OmkarS25/DSA-Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-special-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/OmkarS25/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OmkarS25/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1255,6 +1256,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/OmkarS25/DSA-Practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3483-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmkarS25/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1938,6 +1940,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/OmkarS25/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/OmkarS25/DSA-Practice/tree/master/3827-implement-router) |
 ## String
@@ -2173,6 +2176,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2846-robot-collisions](https://github.com/OmkarS25/DSA-Practice/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/OmkarS25/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/OmkarS25/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/OmkarS25/DSA-Practice/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -2681,6 +2685,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2280-count-good-triplets-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/OmkarS25/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/OmkarS25/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -2730,6 +2735,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/OmkarS25/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/OmkarS25/DSA-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |
@@ -2772,6 +2778,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/OmkarS25/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/OmkarS25/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
 |  |
