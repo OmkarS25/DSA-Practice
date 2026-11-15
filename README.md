@@ -716,6 +716,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1510-find-lucky-integer-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/OmkarS25/DSA-Practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmkarS25/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1642,6 +1643,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1477-product-of-the-last-k-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/OmkarS25/DSA-Practice/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/OmkarS25/DSA-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/OmkarS25/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/OmkarS25/DSA-Practice/tree/master/1622-fancy-sequence) |
@@ -2408,6 +2410,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmkarS25/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/OmkarS25/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1511-count-number-of-teams](https://github.com/OmkarS25/DSA-Practice/tree/master/1511-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/OmkarS25/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmkarS25/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/OmkarS25/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -2534,6 +2537,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/OmkarS25/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmkarS25/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/OmkarS25/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmkarS25/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
