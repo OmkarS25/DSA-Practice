@@ -1880,6 +1880,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/OmkarS25/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmkarS25/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/OmkarS25/DSA-Practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -2061,6 +2062,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OmkarS25/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/OmkarS25/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/OmkarS25/DSA-Practice/tree/master/2300-construct-string-with-repeat-limit) |
