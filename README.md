@@ -2085,6 +2085,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/OmkarS25/DSA-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/OmkarS25/DSA-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/OmkarS25/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
