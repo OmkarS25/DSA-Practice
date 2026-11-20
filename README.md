@@ -910,6 +910,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OmkarS25/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OmkarS25/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/OmkarS25/DSA-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarS25/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1419,6 +1420,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3001-apply-operations-to-maximize-score](https://github.com/OmkarS25/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OmkarS25/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/OmkarS25/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/OmkarS25/DSA-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmkarS25/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2453,6 +2455,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/OmkarS25/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/OmkarS25/DSA-Practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OmkarS25/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
