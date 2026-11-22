@@ -2057,6 +2057,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [2079-delete-duplicate-folders-in-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/OmkarS25/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/OmkarS25/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/OmkarS25/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/OmkarS25/DSA-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/OmkarS25/DSA-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/OmkarS25/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
