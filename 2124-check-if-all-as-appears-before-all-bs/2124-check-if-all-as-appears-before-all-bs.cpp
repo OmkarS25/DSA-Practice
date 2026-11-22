@@ -1,10 +1,8 @@
 class Solution {
 public:
     bool checkString(string &s) {
-        bool seen_b = 0;
-        for(size_t i=0; i<s.size(); i++){
-            if(s[i] == 'b') seen_b = 1;
-            if(s[i] == 'a' && seen_b == 1) return 0;
+        for(size_t i=1; i<s.size(); i++){
+            if (s[i-1] == 'b' && s[i] == 'a') return 0;
         }
         return 1;
     }
