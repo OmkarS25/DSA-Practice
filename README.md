@@ -563,6 +563,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3790-fruits-into-baskets-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/OmkarS25/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/OmkarS25/DSA-Practice/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1056,6 +1057,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OmkarS25/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/OmkarS25/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/OmkarS25/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -1227,6 +1229,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/OmkarS25/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/OmkarS25/DSA-Practice/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/OmkarS25/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2653,6 +2656,7 @@ This repository contains solutions to various data structures and algorithms pra
 | ------- |
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -2669,6 +2673,7 @@ This repository contains solutions to various data structures and algorithms pra
 | [0214-shortest-palindrome](https://github.com/OmkarS25/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OmkarS25/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/OmkarS25/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -2899,4 +2904,8 @@ This repository contains solutions to various data structures and algorithms pra
 | [0856-score-of-parentheses](https://github.com/OmkarS25/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmkarS25/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OmkarS25/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmkarS25/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
